@@ -1,10 +1,10 @@
 # RC-Transmitter-and-Receiver-
-
-RC Transmitter and Receiver for University mini project.
-
-Team Members:
-Alen Varghese - @turnip-top
-Gouthamkrishnan S Nair - @gouthamwashere
-Gowri M
-Nithin V Mohan
-Prasanth S
+  
+RC Transmitter and Receiver for University mini project.  
+  
+Team Members:  
+Alen Varghese - @turnip-top  
+Gouthamkrishnan S Nair - @gouthamwashere  
+Gowri M  
+Nithin V Mohan  
+Prasanth S  
