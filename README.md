@@ -6,5 +6,5 @@ Team Members:
 Alen Varghese - @turnip-top  
 Gouthamkrishnan S Nair - @gouthamwashere  
 Gowri M  
-Nithin V Mohan  
+Nithin V Mohan - @nithinvmohan
 Prasanth S  
